@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "All the Mods 11",
-  "version": "0.0.7",
+  "version": "0.0.9",
   "author": "ATMTeam",
   "files": [
     {
@@ -171,6 +171,12 @@
       "isLocked": false
     },
     {
+      "projectID": 561885,
+      "fileID": 7876229,
+      "required": true,
+      "isLocked": false
+    },
+    {
       "projectID": 247007,
       "fileID": 7978421,
       "required": true,
@@ -263,6 +269,12 @@
     {
       "projectID": 478559,
       "fileID": 7819739,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 394468,
+      "fileID": 7985115,
       "required": true,
       "isLocked": false
     },
@@ -405,6 +417,12 @@
       "isLocked": false
     },
     {
+      "projectID": 915902,
+      "fileID": 7624100,
+      "required": true,
+      "isLocked": false
+    },
+    {
       "projectID": 1325482,
       "fileID": 7960853,
       "required": true,
@@ -473,6 +491,12 @@
     {
       "projectID": 635427,
       "fileID": 7830957,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 447673,
+      "fileID": 7902830,
       "required": true,
       "isLocked": false
     },
@@ -767,6 +791,12 @@
     {
       "projectID": 314905,
       "fileID": 7921450,
+      "required": true,
+      "isLocked": false
+    },
+    {
+      "projectID": 455508,
+      "fileID": 7867946,
       "required": true,
       "isLocked": false
     },
